@@ -2,7 +2,7 @@
 Documentation     A test suite for valid login.
 ...
 ...               Keywords are imported from the resource file
-Resource          keywords.resource
+Resource          ../Ressources/keywords.resource
 Suite Setup       Connect to Server
 Test Teardown     Logout User
 Suite Teardown    Disconnect
